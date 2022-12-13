@@ -1,0 +1,10 @@
+C:\Users\amanda.santos\source\repos\Estudando\Estudando\bin\Debug\Estudando.exe.config
+C:\Users\amanda.santos\source\repos\Estudando\Estudando\bin\Debug\Estudando.exe
+C:\Users\amanda.santos\source\repos\Estudando\Estudando\bin\Debug\Estudando.pdb
+C:\Users\amanda.santos\source\repos\Estudando\Estudando\obj\Debug\Estudando.csproj.AssemblyReference.cache
+C:\Users\amanda.santos\source\repos\Estudando\Estudando\obj\Debug\Estudando.FormulaBhaskara.resources
+C:\Users\amanda.santos\source\repos\Estudando\Estudando\obj\Debug\Estudando.Properties.Resources.resources
+C:\Users\amanda.santos\source\repos\Estudando\Estudando\obj\Debug\Estudando.csproj.GenerateResource.cache
+C:\Users\amanda.santos\source\repos\Estudando\Estudando\obj\Debug\Estudando.csproj.CoreCompileInputs.cache
+C:\Users\amanda.santos\source\repos\Estudando\Estudando\obj\Debug\Estudando.exe
+C:\Users\amanda.santos\source\repos\Estudando\Estudando\obj\Debug\Estudando.pdb
